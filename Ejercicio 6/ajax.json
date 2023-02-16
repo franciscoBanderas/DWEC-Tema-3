@@ -1,0 +1,14 @@
+{
+  "nombre": "Alexandre",
+  "apellido": "Brillant",
+  "libros": [
+    {
+      "titulo": "Ruby",
+      "subTitulo": "Los fundamentos"
+    },
+    {
+      "titulo": "Java 8",
+      "subTitulo": "Trabajos prácticos"
+    }
+  ]
+}
