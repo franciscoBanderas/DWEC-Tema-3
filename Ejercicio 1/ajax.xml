@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<!-- Las etiquetas del xml o html son los nodos de tipo elementos-->
+<item nombre="María José" apellido="Martínez"/>
+<!-- Y los atributos son pares de valores dentro de la etiqueta-->
+<item nombre="Eva" apellido="Navas"/>
+</data>
